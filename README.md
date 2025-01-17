@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
-  <style>
+  I am currently doing a Master's degree in Mathematics and Computing at INDIAN INSTITUTE TECHNOLOGY (INDIAN SCHOOL OF MINES) DHANBAD (IIT (ISM) Dhanbad).
+  My area of interest and want to pursue is Applied mathematics.
+
     body {
       font-family: sans-serif;
       margin: 20px;
@@ -17,20 +18,21 @@
 </head>
 <body>
 
-  <h1>[Your Name]</h1>
+  <h1></h1>
 
   <section>
     <h2>Contact</h2>
-    <p>Phone: [Your Phone Number]</p>
-    <p>Email: <a href="mailto:[Your Email Address]">[Your Email Address]</a></p>
-    <p>LinkedIn: <a href="[Your LinkedIn Profile URL]">LinkedIn Profile</a></p> 
+    <p>Phone: +91 8987584023 </p>
+    <p>Email: <a href="mailto:[Your Email Address]">[vattanakvn1@gmail.com]</a></p>
+    <p>website :
   </section>
 
   <section>
     <h2>Education</h2>
     <ul>
-      <li>[Degree Name], [Major] | [University Name], [City, State] | [Graduation Date]</li>
-      <li>[Relevant coursework or projects]</li>
+      <li>, Bachelor's degree | Royal University of Phnom Penh , Phnom Penh | 2020-2024 </li>
+      <li>, Master's degree | IIT (ISM) DHANBAD , India | 2024-2026 </li>
+      <li>[]</li>
       <li>[Dean's List, Honors, or other achievements]</li>
     </ul>
   </section>
