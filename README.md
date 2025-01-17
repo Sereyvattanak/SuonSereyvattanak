@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,7 +31,7 @@
             <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP">
         </div>
         <div class="name">
-            Serey Vattanak Suon
+            Sereyvattanak Suon
         </div>
     </div>
 
@@ -41,7 +41,8 @@
 
   <h3>Contact</h3>
         <ul>
-            <li><strong>Phone:</strong> (+91 8987584023)</li>
+            <li><strong> Telephone:</strong> (+91 8987584023)</li>
+             <li><strong> Telegram:</strong> (+91 8987584023)</li>
             <li><strong>Email:</strong> <a href="mailto:vattanakvn1@gmail.com">vattanakvn1@gmail.com</a></li>
             <li><strong>Website:</strong> <a href="https://sereyvattanaksuon.github.io/">sereyvattanaksuon.github.io</a></li>
         </ul>
@@ -68,6 +69,23 @@
             <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
             <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
             <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
+        </ul>
+    </section>
+    <section class="courses-section">
+        <h2>Completed Online Courses (September 2024 - January 2025)</h2>
+        <ul class="course-list">
+            <li class="course-item">
+                <h4>Introduction to Statistics</h4>
+                <p>From Stanford University</p>
+            </li>
+            <li class="course-item">
+                <h4>Python and Statistics for Financial Analysis</h4>
+                <p>From The Hong Kong University of Science and Technology</p>
+            </li>
+            <li class="course-item">
+                <h4>Statistical Methods</h4>
+                <p>From the University of Leeds</p>
+            </li>
         </ul>
     </section>
 
