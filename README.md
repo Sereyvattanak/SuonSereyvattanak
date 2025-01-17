@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  I am currently doing a Master's degree in Mathematics and Computing at <a href="mailto:[https://www.iitism.ac.in/]".
+  I am currently doing a Master's degree in Mathematics and Computing at <a href="mailto:[https://www.iitism.ac.in/]" IIT (ISM) DHANBAD.
   My area of interest and want to pursue is Applied mathematics.
 
   <section>
