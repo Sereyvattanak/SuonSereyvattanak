@@ -16,8 +16,7 @@
       <li> Bachelor's degree | Royal University of Phnom Penh , Phnom Penh | 2020-2024 </li>
       <li> Advanced in Mathematics | Mathematical association of Cambodia , Phnom penh Cambodia | 2023-present </li>
       <li> Master's degree | IIT (ISM) DHANBAD , India | 2024-present </li>
-      
-  </section>
+    
 
   <section>
     <section>
