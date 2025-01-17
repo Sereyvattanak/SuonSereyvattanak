@@ -1,12 +1,4 @@
----
-layout: home
-title: Serey Vattanak Suon
-subtitle: Mathematics and Computing Enthusiast
----
 
-## About Me
-
-![Profile Image](assets/img/profile.jpg)
 
 Greetings! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am passionate about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under the supervision of Associate Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
 
