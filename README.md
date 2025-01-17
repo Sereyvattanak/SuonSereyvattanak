@@ -1,42 +1,40 @@
+---
+layout: home
+title: Serey Vattanak Suon
+subtitle: Mathematics and Computing Enthusiast
+---
 
+## About Me
 
-  Greetings from me! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I love reading and learning about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under my supervision of Associate Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
-  
+![Profile Image](assets/img/profile.jpg)
 
-  <section>
-    <h2>Contact</h2>
-    <p>Phone:  (+91 8987584023) </p>
-    <p>Email: <a href="mailto:[Your Email Address]">vattanakvn1@gmail.com</a></p>
-    <p>website : <a href="https://sereyvattanaksuon.github.io/" target="_blank">sereyvattanaksuon.github.io</a></p>
-  </section>
+Greetings! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am passionate about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under the supervision of Associate Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
 
-  <section>
-    <h2>Education</h2>
-    <ul>
-      <li> Bachelor's degree | Royal University of Phnom Penh , Phnom Penh | 2020-2024 </li>
-      <li> Advanced in Mathematics | Mathematical association of Cambodia , Phnom penh Cambodia | 2023-present </li>
-      <li> Master's degree | IIT (ISM) DHANBAD , India | 2024-present </li>
-    
+## Contact
+- **Phone:** (+91 8987584023)  
+- **Email:** [vattanakvn1@gmail.com](mailto:vattanakvn1@gmail.com)  
+- **Website:** [sereyvattanaksuon.github.io](https://sereyvattanaksuon.github.io/)  
 
-  <section>
-    <section>
-    <h2>Experience and Achievments</h2>
-    <ul>
-        <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
-        <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
-        <li>Invited to read and learn at the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
-        <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
-        <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024 .</li>
-    </ul>
-</section>
-</section>
-  <h2>Conference attended</h2>
-    <ul>
-      <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
-      <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
-       <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
-        <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
-        
-</body>
-</html>
+## Education
+- **Bachelor's Degree** | Royal University of Phnom Penh, Phnom Penh | 2020-2024  
+- **Advanced Mathematics** | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present  
+- **Master's Degree** | IIT (ISM) Dhanbad, India | 2024-present  
+
+## Experience and Achievements
+- Entered the **Royal University of Phnom Penh** in 2020.  
+- Passed the entrance examination conducted by the **Mathematical Association of Cambodia** in 2023.  
+- Invited to participate in the **Forum for Pushing the Boundary** since 2023.  
+- Worked on a thesis under the supervision of **Associate Prof. Dr. Meas Len** (appointed Associate Professor at RUPP) in January 2024.  
+- Awarded a **fully sponsored scholarship** through the **ICCR Master’s Program** to pursue studies in India in 2024.  
+
+## Conferences Attended
+- Attended the **Mathematical Association of Cambodia** seminar talk on the *Poincaré Conjecture* – **November 11, 2023**.  
+- Participated in a **mathematical lecture talk** celebrating **Prof. Suon Sovann** on his birthday at **RUPP** – **May 5, 2024**.  
+- Attended a webinar on *The Undying Charm of the Möbius Function – Classical Results and New Variations*, delivered by **Prof. Krishnaswami Alladi** (**University of Florida, USA**) – **August 15, 2024**.  
+- Attended a seminar conducted by **IIT (ISM) Dhanbad** on *Machina Ex Quanta: Rise of the Quantum Boltzmann Machines*, delivered by **Prof. Mark M. Wilde** from **Cornell University, USA** – **January 10, 2024**.  
+
+---
+
+© 2025 Serey Vattanak Suon. Hosted on GitHub Pages.
+
 
