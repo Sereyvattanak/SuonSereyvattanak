@@ -1,17 +1,18 @@
 <style>
-  .circle-img {
-      display: block;
-      margin: auto;
-      width: 200px; /* Set equal width and height */
-      height: 200px;
-      border-radius: 50%;
-      object-fit: cover; /* Prevents stretching */
+  .center-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Adjusts vertical centering */
   }
 </style>
 
-<img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
-     alt="My pic at RUPP" 
-     class="circle-img">
+<div class="center-image">
+    <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
+         alt="My pic at RUPP" 
+         width="200">
+</div>
+
 
 
 
