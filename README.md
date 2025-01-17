@@ -19,12 +19,12 @@
 </head>
 <body>
 
-  <h1>[Your Name]</h1>
+  <h1>[Sereyvattanak Suon]</h1>
 
   <section>
     <h2>Contact</h2>
     <p>Phone: [Your Phone Number]</p>
-    <p>Email: <a href="mailto:[Your Email Address]">[Your Email Address]</a></p>
+    <p>Email: <a href="mailto:[vattanakvn1@gmail.com]">[Your Email Address]</a></p>
     <p>LinkedIn: <a href="[Your LinkedIn Profile URL]">LinkedIn Profile</a></p> 
   </section>
 
