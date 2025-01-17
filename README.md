@@ -21,7 +21,7 @@
 
   <section>
     <section>
-    <h2>Experience and Achievment</h2>
+    <h2>Experience and Achievments</h2>
     <ul>
         <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
         <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
