@@ -20,11 +20,11 @@
 </head>
 <body>
 
-  <h1>[Sereyvattanak Suon]</h1>
+  <h1> Sereyvattanak Suon </h1>
 
   <section>
     <h2>Contact</h2>
-    <p>Phone: [Your Phone Number]</p>
+    <p>Phone: [+918987584023]</p>
     <p>Email: <a href="mailto:[vattanakvn1@gmail.com]">[Your Email Address]</a></p>
     <p>LinkedIn: <a href="[Your LinkedIn Profile URL]">LinkedIn Profile</a></p> 
   </section>
@@ -32,7 +32,8 @@
   <section>
     <h2>Education</h2>
     <ul>
-      <li>[Degree Name], [Major] | [University Name], [City, State] | [Graduation Date]</li>
+      <li>[Bachelor's degree ], [Pure mathematics] | [Royal University of Phom Penh], [Phnom Penh] | [2024]</li>
+       <li>[Master's degree ], [Applied mathematics] | [Indian institute of Techonoly (ISM) Dhanbad ], [India | [2024]</li>
       <li>[Relevant coursework or projects]</li>
       <li>[Dean's List, Honors, or other achievements]</li>
     </ul>
