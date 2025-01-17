@@ -1,48 +1,82 @@
-<style>
-  .center-image {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh; /* Adjusts vertical centering */
-  }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serey Vattanak Suon</title>
+    <style>
+        .center-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh; /* Adjusts vertical centering */
+        }
+.center-image img {
+            width: 200px;
+            border-radius: 50%; /* Optional: makes the image circular */
+        }
 
-<div class="center-image">
-    <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
-         alt="My pic at RUPP" 
-         width="200">
-</div>
+  .name {
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
 
+  <div class="center-container">
+        <div class="center-image">
+            <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP">
+        </div>
+        <div class="name">
+            Serey Vattanak Suon
+        </div>
+    </div>
 
+  <section>
+        <h2>Greetings!</h2>
+        <p>I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am passionate about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under my supervisor Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.</p>
 
+  <h3>Contact</h3>
+        <ul>
+            <li><strong>Phone:</strong> (+91 8987584023)</li>
+            <li><strong>Email:</strong> <a href="mailto:vattanakvn1@gmail.com">vattanakvn1@gmail.com</a></li>
+            <li><strong>Website:</strong> <a href="https://sereyvattanaksuon.github.io/">sereyvattanaksuon.github.io</a></li>
+        </ul>
 
-Greetings! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am passionate about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under my supervisor Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
+  <h3>Education</h3>
+        <ul>
+            <li><strong>Bachelor's Degree</strong> | Royal University of Phnom Penh, Phnom Penh | 2020-2024</li>
+            <li><strong>Advanced Mathematics</strong> | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present</li>
+            <li><strong>Master's Degree</strong> | IIT (ISM) Dhanbad, India | 2024-present</li>
+        </ul>
 
-## Contact
-- **Phone:** (+91 8987584023)  
-- **Email:** [vattanakvn1@gmail.com](mailto:vattanakvn1@gmail.com)  
-- **Website:** [sereyvattanaksuon.github.io](https://sereyvattanaksuon.github.io/)  
+  <h3>Experience and Achievements</h3>
+        <ul>
+            <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
+            <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
+            <li>Invited to participate in the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
+            <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
+            <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024.</li>
+        </ul>
 
-## Education
-- **Bachelor's Degree** | Royal University of Phnom Penh, Phnom Penh | 2020-2024  
-- **Advanced Mathematics** | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present  
-- **Master's Degree** | IIT (ISM) Dhanbad, India | 2024-present  
+  <h3>Conferences Attended</h3>
+        <ul>
+            <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
+            <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
+            <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
+            <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
+        </ul>
+    </section>
 
-## Experience and Achievements
-- Entered the **Royal University of Phnom Penh** in 2020.  
-- Passed the entrance examination conducted by the **Mathematical Association of Cambodia** in 2023.  
-- Invited to participate in the **Forum for Pushing the Boundary** since 2023.  
-- Worked on a thesis under the supervision of **Associate Prof. Dr. Meas Len** (appointed Associate Professor at RUPP) in January 2024.  
-- Awarded a **fully sponsored scholarship** through the **ICCR Master’s Program** to pursue studies in India in 2024.  
+  <footer>
+        <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
+        </footer>
 
-## Conferences Attended
-- Attended the **Mathematical Association of Cambodia** seminar talk on the *Poincaré Conjecture* – **November 11, 2023**.  
-- Participated in a **mathematical lecture talk** celebrating **Prof. Suon Sovann** on his birthday at **RUPP** – **May 5, 2024**.  
-- Attended a webinar on *The Undying Charm of the Möbius Function – Classical Results and New Variations*, delivered by **Prof. Krishnaswami Alladi** (**University of Florida, USA**) – **August 15, 2024**.  
-- Attended a seminar conducted by **IIT (ISM) Dhanbad** on *Machina Ex Quanta: Rise of the Quantum Boltzmann Machines*, delivered by **Prof. Mark M. Wilde** from **Cornell University, USA** – **January 10, 2024**.  
+</body>
+</html>
 
----
-
-© 2025 Serey Vattanak Suon. Hosted on GitHub Pages.
 
 
