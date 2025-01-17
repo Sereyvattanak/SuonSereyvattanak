@@ -1,13 +1,13 @@
 
 
-  Greeting from me! I am currently doing a Master's degree in Mathematics and Computing at IIT (ISM) DHANBAD. I love to read and learning in AI , Machince Learning and Deep learning.Currently I am learning in Deep learing under my supervision's Ass. Prof Dr.Sudhakar Kumawat at IIT(ISM) Dhanbad.
+  Greetings from me! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I love reading and learning about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under the supervision of Associate Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
   
 
   <section>
     <h2>Contact</h2>
-    <p>Phone:  +91 8987584023 </p>
+    <p>Phone:  (+91 8987584023) </p>
     <p>Email: <a href="mailto:[Your Email Address]">vattanakvn1@gmail.com</a></p>
-    <p>website : <a href="mailto:[Your Email Address]"https://sereyvattanaksuon.github.io/</a></p>
+    <p>website : <p>Website: <a href="https://sereyvattanaksuon.github.io/" target="_blank">sereyvattanaksuon.github.io</a></p>
   </section>
 
   <section>
