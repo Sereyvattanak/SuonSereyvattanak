@@ -6,7 +6,7 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Phone: [a href="mailto:Telephone]"> +91 8987584023 </p>
+    <p>Phone:  +91 8987584023 </p>
     <p>Email: <a href="mailto:[Your Email Address]">[vattanakvn1@gmail.com]</a></p>
     <p>website :
   </section>
@@ -15,7 +15,7 @@
     <h2>Education</h2>
     <ul>
       <li> Bachelor's degree | Royal University of Phnom Penh , Phnom Penh | 2020-2024 </li>
-      <li> Master's degree | IIT (ISM) DHANBAD , India | 2024-2026 </li>
+      <li> Master's degree | IIT (ISM) DHANBAD , India | 2024-present </li>
       <li>[]</li>
       <li>[Dean's List, Honors, or other achievements]</li>
     </ul>
