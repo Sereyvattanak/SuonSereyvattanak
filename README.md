@@ -1,13 +1,13 @@
 
 
-  I am currently doing a Master's degree in Mathematics and Computing at IIT (ISM) DHANBAD.
-  My area of interest and want to pursue is Applied mathematics.
+  Greeting from me! I am currently doing a Master's degree in Mathematics and Computing at IIT (ISM) DHANBAD. I love to read and learning in AI , Machince Learning and Deep learning.Currently I am learning in Deep learing under my supervision's Ass. Prof Dr.Sudhakar Kumawat at IIT(ISM) Dhanbad.
+  
 
   <section>
     <h2>Contact</h2>
     <p>Phone:  +91 8987584023 </p>
     <p>Email: <a href="mailto:[Your Email Address]">vattanakvn1@gmail.com</a></p>
-    <p>website :
+    <p>website : <a href="mailto:[Your Email Address]"https://sereyvattanaksuon.github.io/</a></p>
   </section>
 
   <section>
@@ -27,7 +27,7 @@
         <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
         <li>Invited to read and learn at the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
         <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
-        <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India.</li>
+        <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024 .</li>
     </ul>
 </section>
 </section>
@@ -38,20 +38,6 @@
        <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
         <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
         
-        
-       
-    </ul>
-</section>
-
-    </ul>
-    <h3>Soft Skills</h3>
-    <ul>
-      <li>[Skill 1]</li>
-      <li>[Skill 2]</li>
-      <li>[Skill 3]</li>
-    </ul>
-  </section>
-
 </body>
 </html>
 
