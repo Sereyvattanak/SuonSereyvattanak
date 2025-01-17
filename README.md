@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  ![Profile Image]![My pic at RUPP](https://github.com/user-attachments/assets/0757d1b6-af28-4c25-a3ac-56b9a070bdfb)
+  ![Profile Image](https://github.com/user-attachments/assets/0757d1b6-af28-4c25-a3ac-56b9a070bdfb)
 
   I am currently doing a Master's degree in Mathematics and Computing at IIT (ISM) DHANBAD.
   My area of interest and want to pursue is Applied mathematics.
