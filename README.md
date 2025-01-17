@@ -36,10 +36,13 @@
 </section>
   <h2>Conference attended</h2>
     <ul>
+      <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
+      <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
+       <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
         <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
-        <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
-        <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
-        <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
+        
+        
+       
     </ul>
 </section>
 
