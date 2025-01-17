@@ -1,8 +1,24 @@
 
-<img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
-     alt="My pic at RUPP" 
-     width="200" height="200"
-     style="display: block; margin: auto; border-radius: 50%;">
+<style>
+  .center-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+  }
+  .circle-img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+  }
+</style>
+
+<div class="center-container">
+    <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
+         alt="My pic at RUPP" 
+         class="circle-img">
+</div>
 
 
 
