@@ -3,33 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Education CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Publications</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="publications.html">Publications</a>
-            <a href="talks.html">Talks</a>
-            <a href="teaching.html">Teaching</a>
-            <a href="contact.html">Contact/Resume</a>
-        </nav>
-    </header>
+    <div class="container">
+        <h1>Your Name</h1>
+        <p><strong>Email:</strong> your.email@example.com</p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/yourusername">github.com/yourusername</a></p>
 
-    <section class="publications">
-        <h2>Reconstructing balloon-observed gravity wave momentum using machine learning and input from ERA5</h2>
-        <p><strong>Published in <i>JGR: Atmosphere</i>, 2024</strong></p>
-        <p>The paper is published at <a href="https://doi.org/10.1029/2023JD040281">JGR: Atmosphere</a>.</p>
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Degree:</strong> Your Degree Name</p>
+            <p><strong>Institution:</strong> Your University Name</p>
+            <p><strong>Year:</strong> 20XX - 20XX</p>
+        </div>
 
-        <h2>GradientCOBRA Python Library</h2>
-        <p><strong>Published in <i>PyPi</i>, 2023</strong></p>
-        <p><a href="#">GradientCOBRA python library for various ML aggregation methods</a></p>
-    </section>
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming: C++, Python, Java</li>
+                <li>Machine Learning & Data Science</li>
+                <li>Web Development (HTML, CSS, JavaScript)</li>
+            </ul>
+        </div>
 
-    <footer>
-        <p>© 2024 Your Name</p>
-    </footer>
+        <div class="section">
+            <h2>Projects</h2>
+            <p><strong>Project 1:</strong> Description of your project.</p>
+            <p><strong>Project 2:</strong> Another project description.</p>
+        </div>
+    </div>
 </body>
 </html>
+
