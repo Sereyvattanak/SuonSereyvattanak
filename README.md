@@ -7,7 +7,7 @@
     <h2>Contact</h2>
     <p>Phone:  (+91 8987584023) </p>
     <p>Email: <a href="mailto:[Your Email Address]">vattanakvn1@gmail.com</a></p>
-    <p>website : <p>Website: <a href="https://sereyvattanaksuon.github.io/" target="_blank">sereyvattanaksuon.github.io</a></p>
+    <p>website : <a href="https://sereyvattanaksuon.github.io/" target="_blank">sereyvattanaksuon.github.io</a></p>
   </section>
 
   <section>
