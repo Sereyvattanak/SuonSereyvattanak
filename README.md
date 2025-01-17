@@ -1,81 +1,35 @@
-# sereyvattanakSuon.github.io
-![![My pic at RUPP](https://github.com/user-attachments/assets/564e2330-d9fa-4a53-94ad-a561327a1ba3)
-](path/to/your/image.jpg)
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Portfolio</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      text-align: center;
-    }
-    section {
-      margin-bottom: 20px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <h1>Publications</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="publications.html">Publications</a>
+            <a href="talks.html">Talks</a>
+            <a href="teaching.html">Teaching</a>
+            <a href="contact.html">Contact/Resume</a>
+        </nav>
+    </header>
 
-  <h1> Sereyvattanak Suon </h1>
+    <section class="publications">
+        <h2>Reconstructing balloon-observed gravity wave momentum using machine learning and input from ERA5</h2>
+        <p><strong>Published in <i>JGR: Atmosphere</i>, 2024</strong></p>
+        <p>The paper is published at <a href="https://doi.org/10.1029/2023JD040281">JGR: Atmosphere</a>.</p>
 
-  <section>
-    <h2>Contact</h2>
-    <p>Phone: [+918987584023]</p>
-    <p>Email: <a href="mailto:[vattanakvn1@gmail.com]">[Your Email Address]</a></p>
-    <p>LinkedIn: <a href="[Your LinkedIn Profile URL]">LinkedIn Profile</a></p> 
-  </section>
+        <h2>GradientCOBRA Python Library</h2>
+        <p><strong>Published in <i>PyPi</i>, 2023</strong></p>
+        <p><a href="#">GradientCOBRA python library for various ML aggregation methods</a></p>
+    </section>
 
-  <section>
-    <h2>Education</h2>
-    <ul>
-      <li>[Bachelor's degree ], [Pure mathematics] | [Royal University of Phom Penh], [Phnom Penh] | [2024]</li>
-       <li>[Master's degree ], [Applied mathematics] | [Indian institute of Techonoly (ISM) Dhanbad ], [India | [2024]</li>
-      <li>[Relevant coursework or projects]</li>
-      <li>[Dean's List, Honors, or other achievements]</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Experience</h2>
-    <ul>
-      <li>
-        **[Job Title]** | [Company Name], [City, State] | [Dates of Employment]
-        <ul>
-          <li>[Responsibility and achievement 1]</li>
-          <li>[Responsibility and achievement 2]</li>
-          <li>[Responsibility and achievement 3]</li>
-        </ul>
-      </li>
-      <li>
-        **[Previous Job Title (if applicable)]** | [Previous Company Name], [City, State] | [Dates of Employment]
-        <ul>
-          <li>[Responsibility and achievement 1]</li>
-          <li>[Responsibility and achievement 2]</li>
-          <li>[Responsibility and achievement 3]</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Skills</h2>
-    <h3>Technical Skills</h3>
-    <ul>
-      <li>[Skill 1]</li>
-      <li>[Skill 2]</li>
-      <li>[Skill 3]</li>
-    </ul>
-    <h3>Soft Skills</h3>
-    <ul>
-      <li>[Skill 1]</li>
-      <li>[Skill 2]</li>
-      <li>[Skill 3]</li>
-    </ul>
-  </section>
-
+    <footer>
+        <p>© 2024 Your Name</p>
+    </footer>
 </body>
 </html>
