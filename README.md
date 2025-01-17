@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  I am currently doing a Master's degree in Mathematics and Computing at INDIAN INSTITUTE TECHNOLOGY (INDIAN SCHOOL OF MINES) DHANBAD (IIT (ISM) Dhanbad).
+  I am currently doing a Master's degree in Mathematics and Computing at <a href="mailto:[https://www.iitism.ac.in/]".
   My area of interest and want to pursue is Applied mathematics.
 
   <section>
