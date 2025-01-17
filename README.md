@@ -88,6 +88,17 @@
             </li>
         </ul>
     </section>
+    <section class="skills-section">
+        <h2>Skills</h2>
+        <div class="skills-item">
+            <h4>Programming</h4>
+            <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
+        </div>
+        <div class="skills-item">
+            <h4>Technology</h4>
+            <p><span>Linux</span> | <span>Operating System</span> | <span>DBMS</span></p>
+        </div>
+    </section>
 
   <footer>
         <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
