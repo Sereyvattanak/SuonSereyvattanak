@@ -1,7 +1,9 @@
 
 <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" 
      alt="My pic at RUPP" 
-     width="200">
+     width="200" height="200"
+     style="display: block; margin: auto; border-radius: 50%;">
+
 
 
 Greetings! I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am passionate about AI, Machine Learning, and Deep Learning. Currently, I am studying Deep Learning under my supervisor Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
