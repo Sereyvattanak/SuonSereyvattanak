@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
 
   I am currently doing a Master's degree in Mathematics and Computing at IIT (ISM) DHANBAD.
   My area of interest and want to pursue is Applied mathematics.
@@ -19,7 +17,6 @@
       <li> Advanced in Mathematics | Mathematical association of Cambodia , Phnom penh Cambodia | 2023-present </li>
       <li> Master's degree | IIT (ISM) DHANBAD , India | 2024-present </li>
       
-    </ul>
   </section>
 
   <section>
