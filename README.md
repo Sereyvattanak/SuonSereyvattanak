@@ -76,9 +76,6 @@
         <li class="course-item">
             <h4>Introduction to Statistics</h4>
             <p>From Stanford University</p>
-            <a href="Certificate from coursera .pdf" download>Download Certificate</a>
-        </li>
-        <li class="course-item">
             <h4>Python and Statistics for Financial Analysis</h4>
             <p>From The Hong Kong University of Science and Technology</p>
         </li>
