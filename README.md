@@ -76,7 +76,6 @@
 
 <h4>Introduction to Statistics</h4>
     <p>From Stanford University</p>
-            <p>From Stanford University</p>
             <h4>Python and Statistics for Financial Analysis</h4>
             <p>From The Hong Kong University of Science and Technology</p>
         </li>
