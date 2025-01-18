@@ -71,14 +71,13 @@
             <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
         </ul>
     </section>
-    <section class="courses-section">
-        <a href="file:///C:/Users/User/Downloads/Telegram%20Desktop/Certificate%20from%20coursera%20.pdf" target="_blank">Open Certificate</a>
-
         <h2>Completed Online Courses (September 2024 - January 2025)</h2>
         <ul class="course-list">
             <li class="course-item">
                 <h4>Introduction to Statistics</h4>
-                <p>From Stanford University</p>
+<p>From Stanford University</p>
+<a href="file:///C:/Users/User/Downloads/Telegram%20Desktop/Certificate%20from%20coursera%20.pdf" target="_blank">Open Certificate</a>
+
             </li>
             <li class="course-item">
                 <h4>Python and Statistics for Financial Analysis</h4>
