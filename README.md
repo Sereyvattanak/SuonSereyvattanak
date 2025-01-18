@@ -103,8 +103,5 @@
         <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
         </footer>
 
-</body>
-</html>
-
 
 
