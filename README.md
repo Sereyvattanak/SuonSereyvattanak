@@ -72,6 +72,8 @@
         </ul>
     </section>
     <section class="courses-section">
+        <a href="file:///C:/Users/User/Downloads/Telegram%20Desktop/Certificate%20from%20coursera%20.pdf" target="_blank">Open Certificate</a>
+
         <h2>Completed Online Courses (September 2024 - January 2025)</h2>
         <ul class="course-list">
             <li class="course-item">
