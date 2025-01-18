@@ -70,33 +70,37 @@
             <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
             <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
         </ul>
-    </section>
-        <h2>Completed Online Courses (September 2024 - January 2025)</h2>
-        <h4>Introduction to Statistics</h4>
-    <p>From Stanford University</p>
-    <a href="Certificate from coursera .pdf" download>Download Certificate</a>
-</li>
-            <li class="course-item">
-                <h4>Python and Statistics for Financial Analysis</h4>
-                <p>From The Hong Kong University of Science and Technology</p>
-            </li>
-            <li class="course-item">
-                <h4>Statistical Methods</h4>
-                <p>From the University of Leeds</p>
-            </li>
-        </ul>
-    </section>
-    <section class="skills-section">
-        <h2>Skills</h2>
-        <div class="skills-item">
-            <h4>Programming</h4>
-            <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
-        </div>
-        <div class="skills-item">
-            <h4>Technology</h4>
-            <p><span>Linux</span> | <span>Operating System</span> | <span>DBMS</span></p>
-        </div>
-    </section>
+    <section>
+    <h2>Completed Online Courses (September 2024 - January 2025)</h2>
+    <ul>
+        <li class="course-item">
+            <h4>Introduction to Statistics</h4>
+            <p>From Stanford University</p>
+            <a href="Certificate from coursera .pdf" download>Download Certificate</a>
+        </li>
+        <li class="course-item">
+            <h4>Python and Statistics for Financial Analysis</h4>
+            <p>From The Hong Kong University of Science and Technology</p>
+        </li>
+        <li class="course-item">
+            <h4>Statistical Methods</h4>
+            <p>From the University of Leeds</p>
+        </li>
+    </ul>
+</section>
+
+<section class="skills-section">
+    <h2>Skills</h2>
+    <div class="skills-item">
+        <h4>Programming</h4>
+        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
+    </div>
+    <div class="skills-item">
+        <h4>Technology</h4>
+        <p><span>Linux</span> | <span>Operating System</span> | <span>DBMS</span></p>
+    </div>
+</section>
+
 
   <footer>
         <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
