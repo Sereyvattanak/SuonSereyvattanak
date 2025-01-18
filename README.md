@@ -76,16 +76,9 @@
         <li class="course-item">
             <h4>Introduction to Statistics</h4>
             <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Certificate</title>
-</head>
-<body>
-    <h4>Introduction to Statistics</h4>
+
+<h4>Introduction to Statistics</h4>
     <p>From Stanford University</p>
-    <a href="Certificate from coursera .pdf" download>Download Certificate</a>
-</body>
             <p>From Stanford University</p>
             <h4>Python and Statistics for Financial Analysis</h4>
             <p>From The Hong Kong University of Science and Technology</p>
