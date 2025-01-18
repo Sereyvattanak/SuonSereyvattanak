@@ -73,9 +73,6 @@
     <section>
     <h2>Completed Online Courses (September 2024 - January 2025)</h2>
     <ul>
-        <li class="course-item">
-            <h4>Introduction to Statistics</h4>
-            <html lang="en">
 
 <h4>Introduction to Statistics</h4>
     <p>From Stanford University</p>
