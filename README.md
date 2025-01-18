@@ -72,13 +72,10 @@
         </ul>
     </section>
         <h2>Completed Online Courses (September 2024 - January 2025)</h2>
-        <ul class="course-list">
-            <li class="course-item">
-                <h4>Introduction to Statistics</h4>
-<p>From Stanford University</p>
-<a href="file:///C:/Users/User/Downloads/Telegram%20Desktop/Certificate%20from%20coursera%20.pdf" target="_blank">Open Certificate</a>
-
-            </li>
+        <h4>Introduction to Statistics</h4>
+    <p>From Stanford University</p>
+    <a href="Certificate from coursera .pdf" download>Download Certificate</a>
+</li>
             <li class="course-item">
                 <h4>Python and Statistics for Financial Analysis</h4>
                 <p>From The Hong Kong University of Science and Technology</p>
