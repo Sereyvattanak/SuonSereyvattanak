@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,23 +12,14 @@
             flex-direction: column;
             height: 100vh; /* Adjusts vertical centering */
         }
-.center-image img {
+        .center-image img {
             width: 200px;
             border-radius: 50%; /* Optional: makes the image circular */
         }
-
-  .name {
+        .name {
             margin-top: 20px;
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
-  <div class="center-container">
-        <div class="center-image">
-            <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP">
+            font-size:
+>
         </div>
         <div class="name">
             Sereyvattanak Suon
