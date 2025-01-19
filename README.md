@@ -53,7 +53,7 @@
              alt="My pic at IIT" 
              onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
     </div>
-    <div class="name">Serey Vattanak Suon</div>
+    <div class="name">Sereyvattanak Suon</div>
 </div>
 
 <section>
