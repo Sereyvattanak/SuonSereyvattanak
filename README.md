@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,24 +12,34 @@
             flex-direction: column;
             height: 100vh; /* Adjusts vertical centering */
         }
-.center-image img {
+        .center-image img {
             width: 200px;
-            border-radius: 50%; /* Optional: makes the image circular */
+            border-radius: 50%; /* Makes the image circular */
+            object-fit: cover;
+            border: 3px solid #333;
         }
-
-  .name {
+        .name {
             margin-top: 20px;
             font-size: 24px;
             font-weight: bold;
+            color: #333;
         }
     </style>
 </head>
 <body>
 
-  <div class="center-container">
+<div class="center-container">
         <div class="center-image">
-            <img src="![My pic at IIT](https://github.com/user-attachments/assets/d731571d-2978-4bb6-bcde-b9b4c39a1daf)
-" alt="My pic at IIT "
+            <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/image.png" 
+                 alt="My pic at IIT"
+                 onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+        </div>
+        <div class="name">Serey Vattanak Suon</div>
+    </div>
+
+</body>
+</html>
+
 
 <section>
     <h2>Greetings!</h2>
