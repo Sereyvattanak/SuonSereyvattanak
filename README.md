@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,44 +9,25 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            height: 100vh; /* Centers content vertically */
-            text-align: center;
+            height: 100vh; /* Adjusts vertical centering */
         }
-        .center-image img {
+.center-image img {
             width: 200px;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 50%; /* Makes the image circular */
-            border: 3px solid #333; /* Adds a border for better visibility */
+            border-radius: 50%; /* Optional: makes the image circular */
         }
-        .name {
+
+  .name {
             margin-top: 20px;
             font-size: 24px;
             font-weight: bold;
-        }
-        section {
-            width: 80%;
-            margin: auto;
-            text-align: left;
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #f1f1f1;
         }
     </style>
 </head>
 <body>
 
-<div class="center-container">
-    <div class="center-image">
-        <img src="image.png" alt="Serey Vattanak Suon's Profile Picture">
-    </div>
-    <div class="name">
-        Serey Vattanak Suon
-    </div>
-</div>
+  <div class="center-container">
+        <div class="center-image">
+            <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP"
 
 <section>
     <h2>Greetings!</h2>
