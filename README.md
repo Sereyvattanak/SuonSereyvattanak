@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,10 +10,10 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            height: 100vh;
+            height: 200vh;
         }
 
-        .center-image img {
+.center-image img {
             width: 200px;
             height: 200px; /* Ensures the image is square */
             border-radius: 50%; /* This will make the image circular */
@@ -21,7 +21,7 @@
             border: 3px solid #333;
         }
 
-        .name {
+.name {
             margin-top: 20px;
             font-size: 24px;
             font-weight: bold;
