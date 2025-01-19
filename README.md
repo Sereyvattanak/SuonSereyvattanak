@@ -28,6 +28,20 @@
 </head>
 <body>
 
+<div class="center-container">
+        <div class="center-image">
+            <!-- Update the image URL to point to your actual image -->
+            <img src="https://raw.githubusercontent.com/your-username/your-repository/main/image.png" 
+                 alt="Serey Vattanak Suon at IIT" 
+                 onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+        </div>
+        <div class="name">Serey Vattanak Suon</div>
+    </div>
+
+</body>
+</html>
+
+
     <div class="center-container">
         <div class="center-image">
             <img src="https://raw.githubusercontent.com/your-username/your-repository/main/image.png" 
