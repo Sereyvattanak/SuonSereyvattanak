@@ -27,7 +27,8 @@
 
   <div class="center-container">
         <div class="center-image">
-            <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP"
+            <img src="![My pic at IIT](https://github.com/user-attachments/assets/d731571d-2978-4bb6-bcde-b9b4c39a1daf)
+" alt="My pic at IIT "
 
 <section>
     <h2>Greetings!</h2>
