@@ -30,7 +30,7 @@
 
 <div class="center-container">
         <div class="center-image">
-            <img src="image.png" alt="My pic at RUPP" onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+            <img src="image.png" alt=" onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
         </div>
         <div class="name">Serey Vattanak Suon</div>
     </div>
