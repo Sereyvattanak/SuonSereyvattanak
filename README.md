@@ -10,11 +10,11 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            height: 100vh; /* Adjusts vertical centering */
+            height: 100vh;
         }
         .center-image img {
             width: 200px;
-            border-radius: 50%; /* Makes the image circular */
+            border-radius: 50%;
             object-fit: cover;
             border: 3px solid #333;
         }
@@ -28,9 +28,9 @@
 </head>
 <body>
 
-<div class="center-container">
+    <div class="center-container">
         <div class="center-image">
-            <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/image.png" 
+            <img src="https://raw.githubusercontent.com/your-username/your-repository/main/image.png" 
                  alt="My pic at IIT"
                  onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
         </div>
@@ -39,6 +39,7 @@
 
 </body>
 </html>
+
 
 
 <section>
