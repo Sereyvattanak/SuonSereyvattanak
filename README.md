@@ -31,7 +31,8 @@
 <div class="center-container">
         <div class="center-image">
             <!-- Corrected image URL (Replace with your actual image URL) -->
-            <img src="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/image.png" 
+            <img src="![My pic at IIT](https://github.com/user-attachments/assets/2190f73e-cfb6-4dce-a96e-46890d57ea0a)
+" 
                  alt="My pic at IIT" 
                  onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
         </div>
