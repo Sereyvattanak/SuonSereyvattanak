@@ -29,9 +29,6 @@
 <div class="center-container">
     <div class="center-image">
         <img src="image.png" alt="Profile Picture">
-    </div>
-    <div class="name">Serey Vattanak Suon</div>
-</div>
 
 </body>
 </html>
