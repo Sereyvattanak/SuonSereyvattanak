@@ -29,21 +29,14 @@
 <body>
 
 <div class="center-container">
-        <div class="center-image">
-            <!-- Corrected image URL (Replace with your actual image URL) -->
-            <img src="![My pic at IIT](https://github.com/user-attachments/assets/2190f73e-cfb6-4dce-a96e-46890d57ea0a)
-" 
-                 alt="My pic at IIT" 
-                 onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
-        </div>
-        <div class="name">Serey Vattanak Suon</div>
+    <div class="center-image">
+        <!-- Corrected image URL (Replace with your actual image URL) -->
+        <img src="https://github.com/user-attachments/assets/2190f73e-cfb6-4dce-a96e-46890d57ea0a" 
+             alt="My pic at IIT" 
+             onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
     </div>
-
-</body>
-</html>
-
-
-
+    <div class="name">Serey Vattanak Suon</div>
+</div>
 
 <section>
     <h2>Greetings!</h2>
@@ -122,6 +115,7 @@
 
 </body>
 </html>
+
 
 
 
