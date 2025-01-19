@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serey Vattanak Suon</title>
+    <title> Sereyvattanak Suon </title>
     <style>
         .center-container {
             display: flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            height: 100vh;
+            height: 75vh;
         }
 
 .center-image img {
