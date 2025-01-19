@@ -21,7 +21,7 @@
         .name {
             margin-top: 20px;
             font-size: 24px;
-            font-weight: bold;
+            font-weight: ;
             color: #333;
         }
     </style>
