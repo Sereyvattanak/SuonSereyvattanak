@@ -11,10 +11,11 @@
             align-items: center;
             flex-direction: column;
             height: 100vh; /* Adjusts vertical centering */
+            text-align: center;
         }
         .center-image img {
             width: 200px;
-            border-radius: 50%; /* Optional: makes the image circular */
+            border-radius: 50%; /* Makes the image circular */
         }
         .name {
             margin-top: 20px;
@@ -26,19 +27,16 @@
 <body>
 
 <div class="center-container">
-        <div class="center-image">
-            <img src="image.png" alt="![photo_2025-01-19_10-59-42](https://github.com/user-attachments/assets/18bcbcd3-83ec-4839-b71b-2eb1b7041962)
-">
-        </div>
-        <div class="name">Serey Vattanak Suon</div>
+    <div class="center-image">
+        <img src="image.png" alt="Profile Picture">
     </div>
+    <div class="name">Serey Vattanak Suon</div>
+</div>
 
 </body>
 </html>
 
-
-
-        </div>
+</div>
         <div class="name">
             Sereyvattanak Suon
         </div>
