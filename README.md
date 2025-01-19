@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:image" content="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/image.png">
-    <meta name="twitter:image" content="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/image.png">
     <title>Serey Vattanak Suon</title>
     <style>
         .center-container {
@@ -32,9 +30,9 @@
 
 <div class="center-container">
         <div class="center-image">
-            <!-- Regular image displayed on the page -->
+            <!-- Corrected image URL (Replace with your actual image URL) -->
             <img src="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/image.png" 
-                 alt="Serey Vattanak Suon at IIT" 
+                 alt="My pic at IIT" 
                  onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
         </div>
         <div class="name">Serey Vattanak Suon</div>
@@ -43,20 +41,6 @@
 </body>
 </html>
 
-
-
-
-    <div class="center-container">
-        <div class="center-image">
-            <img src="https://raw.githubusercontent.com/your-username/your-repository/main/image.png" 
-                 alt="My pic at IIT"
-                 onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
-        </div>
-        <div class="name">Serey Vattanak Suon</div>
-    </div>
-
-</body>
-</html>
 
 
 
