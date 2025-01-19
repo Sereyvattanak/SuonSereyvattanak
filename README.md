@@ -28,7 +28,8 @@
 
   <div class="center-container">
         <div class="center-image">
-            <img src="https://github.com/user-attachments/assets/d5a89370-2b21-48c5-8527-800db5d3918b" alt="My pic at RUPP"
+     <img src="image.png" alt="My pic at RUPP">
+
 >
         </div>
         <div class="name">
