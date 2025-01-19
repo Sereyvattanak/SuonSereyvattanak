@@ -12,17 +12,35 @@
             flex-direction: column;
             height: 100vh;
         }
+
         .center-image img {
             width: 200px;
-            border-radius: 50%;
-            object-fit: cover;
+            height: 200px; /* Ensures the image is square */
+            border-radius: 50%; /* This will make the image circular */
+            object-fit: cover; /* Ensures the image covers the container without distortion */
             border: 3px solid #333;
         }
+
         .name {
             margin-top: 20px;
             font-size: 24px;
-            font-weight: ;
+            font-weight: bold;
             color: #333;
+        }
+
+        /* Additional styling */
+        section {
+            margin: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+
+        .skills-item span {
+            margin-right: 10px;
         }
     </style>
 </head>
@@ -46,7 +64,7 @@
         Currently, I am studying Deep Learning under my supervisor, Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
     </p>
 
-<h3>Contact</h3>
+    <h3>Contact</h3>
     <ul>
         <li><strong>Telephone:</strong> (+91 8987584023)</li>
         <li><strong>Telegram:</strong> (+91 8987584023)</li>
@@ -54,14 +72,14 @@
         <li><strong>Website:</strong> <a href="https://sereyvattanaksuon.github.io/">sereyvattanaksuon.github.io</a></li>
     </ul>
 
-<h3>Education</h3>
+    <h3>Education</h3>
     <ul>
         <li><strong>Bachelor's Degree</strong> | Royal University of Phnom Penh, Phnom Penh | 2020-2024</li>
         <li><strong>Advanced Mathematics</strong> | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present</li>
         <li><strong>Master's Degree</strong> | IIT (ISM) Dhanbad, India | 2024-present</li>
     </ul>
 
-<h3>Experience and Achievements</h3>
+    <h3>Experience and Achievements</h3>
     <ul>
         <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
         <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
@@ -70,7 +88,7 @@
         <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024.</li>
     </ul>
 
-<h3>Conferences Attended</h3>
+    <h3>Conferences Attended</h3>
     <ul>
         <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
         <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
@@ -115,6 +133,7 @@
 
 </body>
 </html>
+
 
 
 
