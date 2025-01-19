@@ -15,14 +15,11 @@
         .center-image img {
             width: 200px;
             border-radius: 50%; /* Optional: makes the image circular */
-            object-fit: cover;
-            border: 3px solid #333;
         }
         .name {
             margin-top: 20px;
             font-size: 24px;
             font-weight: bold;
-            color: #333;
         }
     </style>
 </head>
@@ -30,13 +27,15 @@
 
 <div class="center-container">
         <div class="center-image">
-            <img src="image.png" alt="" onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+            <img src="image.png" alt="![photo_2025-01-19_10-59-42](https://github.com/user-attachments/assets/18bcbcd3-83ec-4839-b71b-2eb1b7041962)
+">
         </div>
         <div class="name">Serey Vattanak Suon</div>
     </div>
 
 </body>
 </html>
+
 
 
         </div>
