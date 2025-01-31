@@ -61,7 +61,6 @@
     <p>
         I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad.
         I am passionate about AI, Machine Learning, and Deep Learning.
-        Currently, I am studying Deep Learning under my supervisor, Professor Dr. Sudhakar Kumawat at IIT (ISM) Dhanbad.
     </p>
 
     <h3>Contact</h3>
