@@ -1,140 +1,112 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Sereyvattanak Suon </title>
+    <title>Dark Theme Portfolio</title>
     <style>
-        .center-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 75vh;
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
         }
-
-.center-image img {
-            width: 200px;
-            height: 200px; /* Ensures the image is square */
-            border-radius: 50%; /* This will make the image circular */
-            object-fit: cover; /* Ensures the image covers the container without distortion */
-            border: 3px solid #333;
-        }
-
-.name {
-            margin-top: 20px;
-            font-size: 24px;
-            font-weight: bold;
-            color: #333;
-        }
-
-        /* Additional styling */
-        section {
-            margin: 20px;
-        }
-
-        footer {
+        header {
+            background-color: #1e1e1e;
+            padding: 20px;
             text-align: center;
-            padding: 10px;
-            background-color: #f1f1f1;
+            font-size: 24px;
         }
-
-        .skills-item span {
-            margin-right: 10px;
+        nav {
+            background-color: #222;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 50px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .button {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #555;
         }
     </style>
 </head>
 <body>
-
-<div class="center-container">
-    <div class="center-image">
-        <!-- Corrected image URL (Replace with your actual image URL) -->
-        <img src="https://github.com/user-attachments/assets/2190f73e-cfb6-4dce-a96e-46890d57ea0a" 
-             alt="My pic at IIT" 
-             onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+    <header>Dark Theme Portfolio</header>
+    <nav>
+        <a href="#about">Home</a>
+        <a href="#education">Education</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a passionate learner and developer with experience in web development, data science, and software engineering.</p>
+        </section>
+        
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>Master's in Mathematics and Computing - IIT (ISM) Dhanbad</li>
+                <li>Bachelor's in Advanced Mathematics - Royal University of Phnom Penh</li>
+            </ul>
+        </section>
+        
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming: C++, Python, JavaScript</li>
+                <li>Web Development: HTML, CSS, React, Node.js</li>
+                <li>Data Science: Machine Learning, Deep Learning, Statistics</li>
+                <li>Mathematics: Functional Analysis, Linear Algebra, Probability Theory</li>
+            </ul>
+        </section>
+        
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>Matrix Exponential for ODEs</li>
+                <li>Numerical Integration in C++</li>
+                <li>Galois Theory and Field Extensions</li>
+                <li>Deep Learning Applications in Computer Vision</li>
+            </ul>
+        </section>
+        
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: example@domain.com</p>
+            <p>LinkedIn: linkedin.com/in/example</p>
+        </section>
+        
+        <button class="button" onclick="alert('Thank you for visiting!')">Click Me</button>
     </div>
-    <div class="name">Sereyvattanak Suon</div>
-</div>
-
-<section>
-    <h2>Greetings!</h2>
-    <p>
-        I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad.
-        I am passionate about AI, Machine Learning, and Deep Learning.
-    </p>
-
-    <h3>Contact</h3>
-    <ul>
-        <li><strong>Telephone:</strong> (+91 8987584023)</li>
-        <li><strong>Telegram:</strong> (+91 8987584023)</li>
-        <li><strong>Email:</strong> <a href="mailto:vattanakvn1@gmail.com">vattanakvn1@gmail.com</a></li>
-        <li><strong>Website:</strong> <a href="https://sereyvattanaksuon.github.io/">sereyvattanaksuon.github.io</a></li>
-    </ul>
-
-    <h3>Education</h3>
-    <ul>
-        <li><strong>Bachelor's Degree</strong> | Royal University of Phnom Penh, Phnom Penh | 2020-2024</li>
-        <li><strong>Advanced Mathematics</strong> | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present</li>
-        <li><strong>Master's Degree</strong> | IIT (ISM) Dhanbad, India | 2024-present</li>
-    </ul>
-
-    <h3>Experience and Achievements</h3>
-    <ul>
-        <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
-        <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
-        <li>Invited to participate in the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
-        <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
-        <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024.</li>
-    </ul>
-
-    <h3>Conferences Attended</h3>
-    <ul>
-        <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
-        <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
-        <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
-        <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
-    </ul>
-</section>
-
-<section>
-    <h2>Completed Online Courses (September 2024 - January 2025)</h2>
-    <ul>
-        <li>
-            <h4>Introduction to Statistics</h4>
-            <p>From Stanford University</p>
-        </li>
-        <li>
-            <h4>Python and Statistics for Financial Analysis</h4>
-            <p>From The Hong Kong University of Science and Technology</p>
-        </li>
-        <li>
-            <h4>Statistical Methods</h4>
-            <p>From the University of Leeds</p>
-        </li>
-    </ul>
-</section>
-
-<section class="skills-section">
-    <h2>Skills</h2>
-    <div class="skills-item">
-        <h4>Programming</h4>
-        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
-    </div>
-    <div class="skills-item">
-        <h4>Technology</h4>
-        <p><span>Linux</span> | <span>Operating System</span> | <span>DBMS</span></p>
-    </div>
-</section>
-
-<footer>
-    <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
-</footer>
-
 </body>
 </html>
-
-
-
-
-
-
