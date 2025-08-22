@@ -59,8 +59,7 @@
 <section>
     <h2>Greetings!</h2>
     <p>
-        I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad.
-        I am passionate about AI, Machine Learning, and Deep Learning.
+        I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad. I am working on Machine Learning and Deep Learning and seeking opportunities to pursue the highest degree in this area.
     </p>
 
     <h3>Contact</h3>
@@ -89,11 +88,13 @@
 
     <h3>Conferences Attended</h3>
     <ul>
-        <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
-        <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
-        <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
-        <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
-    </ul>
+    <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
+    <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
+    <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
+    <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
+    <li>Attended the <strong>2025 SEAMS School, Los Baños, Philippines</strong> on <em>Theoretical and Computational Tools for the Data-Enabled Sciences</em> – <strong>July 12–22, 2024</strong>.</li>
+</ul>
+
 </section>
 
 <section>
@@ -118,7 +119,7 @@
     <h2>Skills</h2>
     <div class="skills-item">
         <h4>Programming</h4>
-        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
+        <p><span>C</span> | <span>Python</span> | <span>LaTeX</span></p>
     </div>
     <div class="skills-item">
         <h4>Technology</h4>
