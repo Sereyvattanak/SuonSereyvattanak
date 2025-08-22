@@ -83,7 +83,7 @@
         <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
         <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
         <li>Invited to participate in the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
-        <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
+        <li>Worked on a project under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
         <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024.</li>
     </ul>
 
@@ -93,32 +93,18 @@
         <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
         <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
         <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
+        <li>Attended the <strong> The 2025 SEAMS SCHOOL LOS BANOS , Theoretical and Computational Tools for the Data-Enabled Sciences </strong>  – <strong>14-22 July -2025</strong>.</li>
     </ul>
 </section>
 
-<section>
-    <h2>Completed Online Courses (September 2024 - January 2025)</h2>
-    <ul>
-        <li>
-            <h4>Introduction to Statistics</h4>
-            <p>From Stanford University</p>
-        </li>
-        <li>
-            <h4>Python and Statistics for Financial Analysis</h4>
-            <p>From The Hong Kong University of Science and Technology</p>
-        </li>
-        <li>
-            <h4>Statistical Methods</h4>
-            <p>From the University of Leeds</p>
-        </li>
-    </ul>
+
 </section>
 
 <section class="skills-section">
     <h2>Skills</h2>
     <div class="skills-item">
         <h4>Programming</h4>
-        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
+        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>LaTeX</span></p>
     </div>
     <div class="skills-item">
         <h4>Technology</h4>
