@@ -1,140 +1,329 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Sereyvattanak Suon </title>
+    <title>Academic CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        .center-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 75vh;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-
-.center-image img {
-            width: 200px;
-            height: 200px; /* Ensures the image is square */
-            border-radius: 50%; /* This will make the image circular */
-            object-fit: cover; /* Ensures the image covers the container without distortion */
-            border: 3px solid #333;
-        }
-
-.name {
-            margin-top: 20px;
-            font-size: 24px;
-            font-weight: bold;
+        
+        body {
+            background-color: #f5f7f9;
             color: #333;
+            line-height: 1.6;
+            padding: 20px;
         }
-
-        /* Additional styling */
-        section {
-            margin: 20px;
+        
+        .cv-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
         }
-
-        footer {
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #1a2530);
+            color: white;
+            padding: 30px;
             text-align: center;
-            padding: 10px;
-            background-color: #f1f1f1;
         }
-
-        .skills-item span {
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 30px;
+        }
+        
+        .main-content {
+            grid-column: 1 / -1;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section-title i {
             margin-right: 10px;
+            color: #3498db;
+        }
+        
+        .timeline-item {
+            margin-bottom: 20px;
+            position: relative;
+            padding-left: 30px;
+        }
+        
+        .timeline-item:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid #3498db;
+            border-radius: 50%;
+            background: white;
+        }
+        
+        .timeline-item:after {
+            content: '';
+            position: absolute;
+            left: 5px;
+            top: 22px;
+            width: 2px;
+            height: calc(100% + 10px);
+            background: #3498db;
+        }
+        
+        .timeline-item:last-child:after {
+            display: none;
+        }
+        
+        .item-title {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .item-date {
+            color: #7f8c8d;
+            font-style: italic;
+            margin-bottom: 8px;
+            display: block;
+        }
+        
+        .item-details {
+            color: #555;
+            margin-top: 5px;
+            font-size: 0.95rem;
+        }
+        
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .tag {
+            display: inline-block;
+            background: #e8f4fc;
+            color: #3498db;
+            padding: 3px 10px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+            margin: 3px 5px 3px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                grid-template-columns: 1fr;
+            }
+            
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .print-btn {
+            display: block;
+            margin: 20px auto;
+            padding: 12px 25px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s;
+        }
+        
+        .print-btn:hover {
+            background: #2980b9;
         }
     </style>
 </head>
 <body>
-
-<div class="center-container">
-    <div class="center-image">
-        <!-- Corrected image URL (Replace with your actual image URL) -->
-        <img src="https://github.com/user-attachments/assets/2190f73e-cfb6-4dce-a96e-46890d57ea0a" 
-             alt="My pic at IIT" 
-             onerror="this.onerror=null; this.src='https://via.placeholder.com/200'">
+    <div class="cv-container">
+        <div class="header">
+            <h1>Academic Curriculum Vitae</h1>
+            <p>Master's Candidate in Applied Mathematics</p>
+        </div>
+        
+        <div class="content">
+            <div class="main-content">
+                <div class="section">
+                    <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h2>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Indian Institute of Technology (ISM) Dhanbad</span>
+                        <span class="item-date">2024 - Present</span>
+                        <div class="item-details">
+                            Master's degree in Applied Mathematics<br>
+                            Thesis: Deep Learning (ongoing)
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Royal University of Phnom Penh</span>
+                        <span class="item-date">2020 - 2024</span>
+                        <div class="item-details">
+                            Bachelor's degree in Pure Mathematics<br>
+                            Project: <i>Matrix Exponentials and System of Differential Equations</i>
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Mathematical Association of Cambodia</span>
+                        <span class="item-date">2023 - Present</span>
+                        <div class="item-details">
+                            Basic: Linear Algebra, Abstract Algebra, Real Analysis<br>
+                            Advanced: Introduction to Statistical Learning, Machine Learning
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2 class="section-title"><i class="fas fa-briefcase"></i> Activities & Achievements</h2>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Master's degree Candidate in Applied Mathematics</span>
+                        <span class="item-date">2024-Present</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Entrance the Examination at IIT(ISM) Dhanbad</span>
+                        <span class="item-date">2024</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Entered the Royal University of Phnom Penh</span>
+                        <span class="item-date">2020</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Entrance Exam by the Mathematical Association of Cambodia</span>
+                        <span class="item-date">2023</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Awarded ICCR Master's Program full scholarship to study in India</span>
+                        <span class="item-date">2024</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Gave a public talk on Operators on Inner Product Spaces in MAC</span>
+                        <span class="item-date">August 2024</span>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2 class="section-title"><i class="fas fa-chalkboard-teacher"></i> Conferences & Workshops</h2>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">SEAMS School 2025</span>
+                        <span class="item-date">July 14-22, 2025</span>
+                        <div class="item-details">
+                            School on Theoretical and Computational Tools for the Data-Enabled Sciences<br>
+                            University of the Philippines Los Baños, Laguna, Philippines
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Workshop in Artificial Intelligence with Machine Learning</span>
+                        <span class="item-date">March 2025</span>
+                        <div class="item-details">
+                            IIT Patna
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Seminar on Quantum Boltzmann Machines by Prof. Mark M. Wilde</span>
+                        <span class="item-date">January 10, 2025</span>
+                        <div class="item-details">
+                            Cornell University, IIT(ISM) Dhanbad
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Webinar on Möbius Function by Prof. Krishnaswami Alladi</span>
+                        <span class="item-date">August 15, 2024</span>
+                        <div class="item-details">
+                            University of Florida
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2 class="section-title"><i class="fas fa-project-diagram"></i> Projects & Research</h2>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Studied Machine Learning and Statistical learning</span>
+                        <span class="item-date">2023</span>
+                        <div class="item-details">
+                            Under Dr. Vanny Khon and Dr. Has Sothea in the Forum Pushing the Boundary
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Worked on a project under Assoc. Prof. Dr. Meas Len</span>
+                        <span class="item-date">2023</span>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <span class="item-title">Given a Seminar talk on Inverse Problems</span>
+                        <span class="item-date">July 22, 2025</span>
+                        <div class="item-details">
+                            Los Baños, Philippines
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="name">Sereyvattanak Suon</div>
-</div>
+    
+    <button class="print-btn" onclick="window.print()">
+        <i class="fas fa-print"></i> Print CV
+    </button>
 
-<section>
-    <h2>Greetings!</h2>
-    <p>
-        I am currently pursuing a Master's degree in Mathematics and Computing at IIT (ISM) Dhanbad.
-        I am passionate about AI, Machine Learning, and Deep Learning.
-    </p>
-
-    <h3>Contact</h3>
-    <ul>
-        <li><strong>Telephone:</strong> (+91 8987584023)</li>
-        <li><strong>Telegram:</strong> (+91 8987584023)</li>
-        <li><strong>Email:</strong> <a href="mailto:vattanakvn1@gmail.com">vattanakvn1@gmail.com</a></li>
-        <li><strong>Website:</strong> <a href="https://sereyvattanaksuon.github.io/">sereyvattanaksuon.github.io</a></li>
-    </ul>
-
-    <h3>Education</h3>
-    <ul>
-        <li><strong>Bachelor's Degree</strong> | Royal University of Phnom Penh, Phnom Penh | 2020-2024</li>
-        <li><strong>Advanced Mathematics</strong> | Mathematical Association of Cambodia, Phnom Penh, Cambodia | 2023-present</li>
-        <li><strong>Master's Degree</strong> | IIT (ISM) Dhanbad, India | 2024-present</li>
-    </ul>
-
-    <h3>Experience and Achievements</h3>
-    <ul>
-        <li>Entered the <strong>Royal University of Phnom Penh</strong> in 2020.</li>
-        <li>Passed the entrance examination conducted by the <strong>Mathematical Association of Cambodia</strong> in 2023.</li>
-        <li>Invited to participate in the <strong>Forum for Pushing the Boundary</strong> since 2023.</li>
-        <li>Worked on a thesis under the supervision of <strong>Associate Prof. Dr. Meas Len</strong> (appointed Associate Professor at RUPP) in January 2024.</li>
-        <li>Awarded a <strong>fully sponsored scholarship</strong> through the <strong>ICCR Master’s Program</strong> to pursue studies in India in 2024.</li>
-    </ul>
-
-    <h3>Conferences Attended</h3>
-    <ul>
-        <li>Attended the <strong>Mathematical Association of Cambodia</strong> seminar talk on the <em>Poincaré Conjecture</em> – <strong>November 11, 2023</strong>.</li>
-        <li>Participated in a <strong>mathematical lecture talk</strong> celebrating <strong>Prof. Suon Sovann</strong> on his birthday at <strong>RUPP</strong> – <strong>May 5, 2024</strong>.</li>
-        <li>Attended a webinar on <em>The Undying Charm of the Möbius Function – Classical Results and New Variations</em>, delivered by <strong>Prof. Krishnaswami Alladi</strong> (<strong>University of Florida, USA</strong>) – <strong>August 15, 2024</strong>.</li>
-        <li>Attended a seminar conducted by <strong>IIT (ISM) Dhanbad</strong> on <em>Machina Ex Quanta: Rise of the Quantum Boltzmann Machines</em>, delivered by <strong>Prof. Mark M. Wilde</strong> from <strong>Cornell University, USA</strong> – <strong>January 10, 2024</strong>.</li>
-    </ul>
-</section>
-
-<section>
-    <h2>Completed Online Courses (September 2024 - January 2025)</h2>
-    <ul>
-        <li>
-            <h4>Introduction to Statistics</h4>
-            <p>From Stanford University</p>
-        </li>
-        <li>
-            <h4>Python and Statistics for Financial Analysis</h4>
-            <p>From The Hong Kong University of Science and Technology</p>
-        </li>
-        <li>
-            <h4>Statistical Methods</h4>
-            <p>From the University of Leeds</p>
-        </li>
-    </ul>
-</section>
-
-<section class="skills-section">
-    <h2>Skills</h2>
-    <div class="skills-item">
-        <h4>Programming</h4>
-        <p><span>C++</span> | <span>C</span> | <span>Python</span> | <span>R</span> | <span>LaTeX</span></p>
-    </div>
-    <div class="skills-item">
-        <h4>Technology</h4>
-        <p><span>Linux</span> | <span>Operating System</span> | <span>DBMS</span></p>
-    </div>
-</section>
-
-<footer>
-    <p>&copy; 2025 Serey Vattanak Suon. Hosted on GitHub Pages.</p>
-</footer>
-
+    <script>
+        // Add current year to future events if needed
+        document.addEventListener('DOMContentLoaded', function() {
+            const currentYear = new Date().getFullYear();
+            document.querySelectorAll('.item-date').forEach(el => {
+                if (el.textContent.includes('2025') && currentYear < 2025) {
+                    el.innerHTML = el.innerHTML.replace('2025', '2025 (Upcoming)');
+                }
+            });
+        });
+    </script>
 </body>
 </html>
-
-
-
-
-
-
