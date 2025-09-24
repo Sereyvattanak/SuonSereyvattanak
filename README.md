@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -690,8 +690,9 @@
                         <div class="item-details">
                             Review by Dr. Vanny Khon
                         </div>
-                </div>
-            </section>
+                        </div>
+                        
+        
             
             <!-- Hobbies Section -->
             <section id="hobbies" class="section">
@@ -724,7 +725,6 @@
             </section>
 
             
-        </main>
         
         <!-- Footer -->
         <footer id="contact">
@@ -784,5 +784,3 @@
             });
         });
     </script>
-</body>
-</html>
